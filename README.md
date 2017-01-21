@@ -1,7 +1,9 @@
 # q_authors
 
 A partial replication of Sinatra, R., D. Wang, P. Deville, C. Song, and A.-L. Barabasi. “Quantifying the Evolution of Individual Scientific Impact.” Science 354, no. 6312 (November 4, 2016), doi:10.1126/science.aaf5239.
+
 URL: http://science.sciencemag.org/content/354/6312/aaf5239.
+
 Supplementary materials: http://science.sciencemag.org/content/suppl/2016/11/02/354.6312.aaf5239.DC1?_ga=1.178615011.657974594.1453296229.
 
 # Contents
@@ -44,5 +46,6 @@ Supplementary materials: http://science.sciencemag.org/content/suppl/2016/11/02/
 # Dependencies
 
 Python 3.5
+
 Numpy, Scipy, Pickle
 
