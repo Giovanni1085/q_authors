@@ -18,6 +18,7 @@ Supplementary materials: http://science.sciencemag.org/content/suppl/2016/11/02/
     * `author_index_all_month.p`
         * A dictionary with all the authors in the APS dataset (origins to 2010) which have at least 1 article with a 10y lifetime, thus published before 2000 taking 2010 as the last useful year.
         Every article is considered, provided it has a date and has a lifetime of at least 10y. The list of authors comes from the supplementary materials of the article (file APS_author2DOI.dat).
+        This dataset was created using the APS dataset, available here: http://journals.aps.org/datasets.
         * Every author has the following infos (the index is equal to the field `id` below):
                 `{'articles': [{'c_ten': 8,
                    'date': '1949-09-15',
